@@ -1,0 +1,14 @@
+README.md
+  h_bbf7f6b744c8dd 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "31ad44f001110bb154c07cc5b30230ad325bc654",
+  "prompts": {},
+  "humans": {
+    "h_bbf7f6b744c8dd": {
+      "author": "angonz <andres@aulasneo.com>"
+    }
+  }
+}

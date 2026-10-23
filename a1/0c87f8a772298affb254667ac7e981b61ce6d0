@@ -1,0 +1,19 @@
+CODEOWNERS
+  s_1cdc3a8f7a9c7c::t_5307534efff601 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a10c87f8a772298affb254667ac7e981b61ce6d0",
+  "prompts": {},
+  "sessions": {
+    "s_1cdc3a8f7a9c7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e57ace0d-19bf-4084-a089-0e16b5e76891",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "angonz <andres@aulasneo.com>"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+README.md
+  s_1cdc3a8f7a9c7c::t_9f8338c7252a41 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "a35ebfd196ac4938ce53a6c13aed638879963ccb",
+  "prompts": {},
+  "sessions": {
+    "s_1cdc3a8f7a9c7c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e57ace0d-19bf-4084-a089-0e16b5e76891",
+        "model": "unknown"
+      },
+      "human_author": "angonz <andres@aulasneo.com>"
+    }
+  }
+}

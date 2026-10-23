@@ -1,0 +1,14 @@
+.github/workflows/probe.yml
+  h_bbf7f6b744c8dd 11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "db0f4f5918a42eb89eb21b576fdefb4038d58b5f",
+  "prompts": {},
+  "humans": {
+    "h_bbf7f6b744c8dd": {
+      "author": "angonz <andres@aulasneo.com>"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+name: probe
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+jobs:
+  which:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "WORKFLOW_VERSION=main-v1 sha=$GITHUB_SHA ref=$GITHUB_REF"
